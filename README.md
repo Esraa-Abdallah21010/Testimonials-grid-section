@@ -68,6 +68,15 @@ It demonstrates my ability to implement **modern UI design**, **responsive grid 
 
 ---
 
+## ▶️ How to Run Locally
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Esraa-Abdallah21010/Testimonials-grid-section.git
+```
+
+---
+
 ## 📫 Connect With Me
 <p align="center">
   <a href="mailto:esraaabdallah21010@gmail.com">
